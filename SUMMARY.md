@@ -1,9 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [2015年](https://bilicover.gitbooks.io/2015/)
-* [2017年](https://bilicover.gitbooks.io/2017/)
-* [回主页](https://bilicover.gitbooks.io/main/)
+* [&larr; 2015年](https://bilicover.gitbooks.io/2015/)
 
 ## 2016年
 
@@ -151,3 +149,7 @@
 * [2016.12.24-平安夜](2016/20161224.md)
 * [2016.12.25-圣诞节\(B萌8强投票\)](2016/20161225.md)
 * [2016.12.26-2017拜年祭预告](2016/20161226.md)
+
+## 
+* [2017年 &rarr;](https://bilicover.gitbooks.io/2017/)
+* [回主页](https://bilicover.gitbooks.io/main/)
