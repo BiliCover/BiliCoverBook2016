@@ -6,5 +6,5 @@
 ### 快捷跳转：
 1. [回主页](https://bilicover.gitbooks.io/main/)
 2. [2015年](https://bilicover.gitbooks.io/2015/)
-3. 2016年
-4. [2017年](https://bilicover.gitbooks.io/2017/)
+3. [2017年](https://bilicover.gitbooks.io/2017/)
+4. [2018年](https://bilicover.gitbooks.io/2018/)
