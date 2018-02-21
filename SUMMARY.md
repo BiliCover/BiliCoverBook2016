@@ -153,7 +153,4 @@
 * [2016.12.26-2017拜年祭预告](20161226.md)
 
 ## 
-* [&larr; 2015年](https://bilicover.gitbooks.io/2015/content/)
-* [2017年 &rarr;](https://bilicover.gitbooks.io/2017/content/)
-* [2018年 &rarr;](https://bilicover.gitbooks.io/2018/content/)
-* [回主页](README.md)
+* [回主页](https://bilicover.github.io/)
